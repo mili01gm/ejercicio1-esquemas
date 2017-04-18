@@ -1,0 +1,50 @@
+#contenedor {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.cajita {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin: 20px auto;
+}
+
+.mini-cajita {
+  width: 100px;
+  height: 100px;
+}
+
+.micro-cajita {
+  width: 50px;
+  height: 50px;
+}
+
+#rojo {
+  background-color: #F24236;
+}
+#morado {
+  position: absolute;
+  background-color: #B5269A;
+  top: 50px;
+  left: 50px;
+}
+#amarillo {
+  position: absolute;
+  background-color: #F7CE2A;
+  top: 0;
+  left: 0;
+}
+
+#azul {
+  background-color: #0380A3;
+}
+#verde {
+  position: absolute;
+  background-color: #11F989;
+  top: 50px;
+  left: 50px;
+}
+#negro {
+  background-color: #333;
+}
